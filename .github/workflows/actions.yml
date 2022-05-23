@@ -18,6 +18,6 @@ jobs:
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@releases/v3
         with:
-          ACCESS_TOKEN: ${{ secrets.MADEINHEAVEN_ACTIONS }}
+          ACCESS_TOKEN: ${{ secrets.PORN_LOGO }}
           BRANCH: gh-pages
           FOLDER: dist
